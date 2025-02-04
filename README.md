@@ -15,7 +15,7 @@ Welcome to AbdurFY, where we provide expert web solutions, Android APK developme
 <p>• Expertise – Years of experience in digital services</p>
 • Creativity – Unique and innovative designs
 • Quality Assurance – We ensure top-notch quality in every project
-• Client-Centric – Custom solutions tailored to your needs
+<p>• Client-Centric – Custom solutions tailored to your needs</p>
 
  **Contact Us**
 
