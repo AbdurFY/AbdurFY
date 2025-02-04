@@ -19,7 +19,7 @@ Welcome to AbdurFY, where we provide expert web solutions, Android APK developme
 
  **Contact Us**
 
- <p>**Email:** help@abdurfy.com</p>
- <p>**Phone:** +880 1586019510</p>
+ **Email:** help@abdurfy.com</p>
+ **Phone:** +880 1586019510</p>
 
 Follow us for updates and portfolio showcases. Let’s build something amazing together!
