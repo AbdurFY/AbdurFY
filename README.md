@@ -12,14 +12,14 @@ Welcome to AbdurFY, where we provide expert web solutions, Android APK developme
 
  **Why Choose Us?**
 
-• Expertise – Years of experience in digital services
+<p>• Expertise – Years of experience in digital services</p>
 • Creativity – Unique and innovative designs
 • Quality Assurance – We ensure top-notch quality in every project
 • Client-Centric – Custom solutions tailored to your needs
 
  **Contact Us**
 
- **Email:** help@abdurfy.com
- **Phone:** +880 1586019510
+ <p>**Email:** help@abdurfy.com</p>
+ <p>**Phone:** +880 1586019510</p>
 
 Follow us for updates and portfolio showcases. Let’s build something amazing together!
