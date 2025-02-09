@@ -1,7 +1,7 @@
 ## AbdurFY
-**Innovative Web, Android, and Design Solutions**
+## Your Imagination, Our Creation!
 
-Welcome to **AbdurFY**, where we provide expert **web solutions, Android APK development, graphic design, and video services**. Our mission is to deliver innovation, quality, and creativity in every project.
+Welcome to **AbdurFY**, where we provide expert **web solutions, Android App development, graphic design, and video services**. Our mission is to deliver innovation, quality, and creativity in every project.
 
  **Services We Offer**
 
@@ -20,6 +20,6 @@ Welcome to **AbdurFY**, where we provide expert **web solutions, Android APK dev
  **Contact Us**
 
  **Email:** help@abdurfy.com</p>
- **Phone:** +880 1586019510</p>
+ **Phone:** +880 1586-019510</p>
 
 Follow us for updates and portfolio showcases. Let’s build something amazing together!
