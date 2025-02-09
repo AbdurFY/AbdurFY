@@ -6,7 +6,7 @@ Welcome to **AbdurFY**, where we provide expert **web solutions, Android App dev
  **Services We Offer**
 
 <p>• Web Solutions – Modern websites, web apps, and backend services</p>
-<p>• Android Development – Custom APK development and mobile solutions</p>
+<p>• Android Development – Custom App development and mobile solutions</p>
 <p>• Graphic Design – Logos, branding, UI/UX, and more</p>
 <p>• Video Editing – High-quality video production and post-production</p>
 
