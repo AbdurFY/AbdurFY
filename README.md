@@ -20,6 +20,6 @@ Welcome to **AbdurFY**, where we provide expert **web solutions, Android App dev
  **Contact Us**
 
  **Email:** help@abdurfy.com</p>
- **Phone:** +880 1586-019510</p>
+ **Phone:** </p>
 
 Follow us for updates and portfolio showcases. Let’s build something amazing together!
